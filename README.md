@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shwetank08
+- 👋 Hi, I’m shwetank
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
 
